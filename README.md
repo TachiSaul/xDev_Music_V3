@@ -35,5 +35,5 @@
 ---
 
 <div align="center">
-  <sub>Hecho con ♡ por TachiSaul</sub>
+  <sub>Hecho con ♡ por Saul</sub>
 </div>
