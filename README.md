@@ -2,7 +2,7 @@
 
 # ✦ xDev Music ✦
 
-**Tu música con calidad, estilo y comunidad.**
+**Tu música con calidad, estilo y comunidad Y Sin Anuncios.**
 
 [![Descargar](https://img.shields.io/badge/⬇_DESCARGAR_APP-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TachiSaul/xDev_Music_V3/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h76k776xdQ)
